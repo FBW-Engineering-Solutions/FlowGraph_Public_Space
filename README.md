@@ -4,6 +4,9 @@ This repository is the **public discussion and issue-tracking space for FlowGrap
 
 Visit the [official FlowGraph webpage](https://www.fbw-es.com/flowgraph/) to learn more about the project.
 
+- [Report an issue](https://github.com/FBW-Engineering-Solutions/FlowGraph_Public_Space/issues)
+- [Join the discussions](https://github.com/FBW-Engineering-Solutions/FlowGraph_Public_Space/discussions)
+
 It is intended for the FlowGraph community to:
 
 - Report bugs and unexpected behavior
